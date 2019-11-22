@@ -12,6 +12,7 @@ fun main() {
     println(miComputador.toString())
     var ratonSorpresa=Mouse("Ay")
     println(ratonSorpresa.tipo)
+    //comentario
 }
 
 
